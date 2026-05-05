@@ -1,0 +1,25 @@
+{
+  "name": "pgats-desafio-programacao-para-automacao",
+  "version": "1.0.0",
+  "description": "Projeto do Desafio de Programação para Automação de Testes referente à PGATS - T3",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikollasfs/pgats-desafio-programacao-para-automacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nikollasfs/pgats-desafio-programacao-para-automacao/issues"
+  },
+  "homepage": "https://github.com/nikollasfs/pgats-desafio-programacao-para-automacao#readme",
+  "dependencies": {
+    "mocha": "^11.7.5",
+    "mochawesome": "^7.1.4"
+  }
+}
